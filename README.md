@@ -26,7 +26,7 @@ This is a simple and responsive **Banking User Interface** built with HTML and C
 
 ## 📷 Screenshot
 
-![UI Preview](Screenshot%202025-07-31%20161635.png)
+![UI Preview](Screenshot%202025-07-31%140735.png)
 
 ```markdown
 ![UI Preview](screenshot.png)
