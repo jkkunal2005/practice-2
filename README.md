@@ -24,9 +24,10 @@ This is a simple and responsive **Banking User Interface** built with HTML and C
 2. Open `index.html` in any modern web browser.
 3. View the responsive UI with a sample balance and two buttons.
 
-## 📷 Screenshot
+## 🖼️ Screenshot
 
-![UI Preview](Screenshot%202025-07-31%140735.png)
+![UI Preview](Screenshot%202025-07-31%20162138.png)
+
 
 
 
